@@ -1,0 +1,50 @@
+﻿OBJECTID,CRA_NO,CRA_GRP,Neighborhood,Lat Long,Latitude,Longitude,DETL_NAMES,District,AREA_ACRES,AREA_SQMI,SHAPE_Length,SHAPE_Area,Population,Population_in_HH,Households,Family_HHs,Avg_HH_Size,Pop_Under18
+1,1.1,1,Arbor Heights,"47.51, -122.38",47.50898,-122.379693,"Arbor Heights, Brace Point, Endolyne, Arroyo",Southwest,785.9,1.23,27702.72765,34233874.12,6278,6260,2702,1773,2.32,1287
+2,1.2,1,Fauntleroy,"47.52, -122.39",47.52488,-122.386935,"Fauntleroy, Gatewood, Morgan Junction, Lincoln Park, Seaview, Fairmount Park",Southwest,1393.1,2.18,48830.04832,60685103.63,15227,15147,6823,3944,2.22,2814
+3,1.3,1,West Seattle Junction,"47.55, -122.38",47.563121,-122.386722,"Seaview, Fairmount Park, Morgan Junction, Genesee Hill, Belvidere, West Seattle Junction, Alaska Junction, Admiral",Southwest,1447.5,2.26,38739.89626,63054619.62,20345,20063,9448,4966,2.12,3716
+4,1.4,1,Alki,"47.57, -122.41",47.580508,-122.386705,"Alki, Admiral",Southwest,898.3,1.4,50339.65642,39129742.88,12037,11882,5888,3186,2.02,1946
+5,2.1,2,North Delridge,"47.56, -122.36",47.563673,-122.364989,"North Delridge, Pigeon Point, Avalon, Luna Park, Harbor Island",Delridge Neighborhoods,1606.9,2.51,64237.74268,69994939.18,5675,5658,2858,1412,1.98,818
+6,2.2,2,High Point,"47.55, -122.37",47.545718,-122.36868,"High Point, Delridge",Delridge Neighborhoods,553.2,0.86,22626.00822,24096694.21,8336,8281,3025,1920,2.74,2495
+7,2.3,2,Riverview,"47.54, -122.35",47.548226,-122.354897,"Riverview, Delridge",Delridge Neighborhoods,1005.9,1.57,37828.42176,43817259.58,4970,4941,1861,1210,2.66,1074
+8,2.4,2,Roxhill,"47.53, -122.37",47.528392,-122.371318,"Roxhill, Westwood, South Delridge, White Center",Delridge Neighborhoods,978.5,1.53,33451.49863,42622650.63,13045,13045,5715,3174,2.28,2485
+9,2.5,2,Highland Park,"47.53, -122.35",47.527299,-122.349214,"Highland Park, Westwood, White Center, South Delridge",Delridge Neighborhoods,897.7,1.4,31097.84366,39103231.39,7054,7029,3012,1553,2.33,1555
+10,3.1,3,South Park,"47.53, -122.33",47.529862,-122.324658,South Park,Greater Duwamish,693.9,1.08,36300.10317,30228043.41,3719,3627,1413,735,2.57,1094
+11,3.2,3,Georgetown,"47.55, -122.33",47.54987,-122.325232,Georgetown,Greater Duwamish,1183.9,1.85,44780.41907,51570826.04,1045,1045,620,184,1.69,64
+12,3.3,3,SODO,"47.51, -122.29",47.582122,-122.333208,"Duwamish, SODO, Pioneer Square",Greater Duwamish,2343.5,3.66,53360.75707,102080799.9,2665,2155,1141,447,1.89,225
+13,3.4,3,South Beacon Hill,"47.53, -122.29",47.530158,-122.286697,"South Beacon Hill, NewHolly, Holly Park",Greater Duwamish,1549.5,2.42,44496.5607,67496709.78,15333,15100,4761,3271,3.17,3975
+14,3.5,3,Beacon Hill,"47.58, -122.31",47.553352,-122.303535,Beacon Hill,Greater Duwamish,841.1,1.31,27112.91059,36636855.3,9241,9127,3223,2349,2.83,1542
+16,4.1,4,Rainier Beach,"47.51, -122.26",47.513407,-122.26236,"Rainier Beach, Rainier View, Lake Ridge, Dunlap",Southeast,1363.1,2.13,54987.97051,59374855.14,16012,15861,5460,3758,2.9,3719
+17,4.2,4,Columbia City,"47.56, -122.28",47.560012,-122.286443,"Columbia City, Brighton, Mt. Baker, Lakewood, Genesee, Hillman City",Southeast,1310.2,2.05,45667.74246,57072692.27,20559,20235,7773,4218,2.6,4104
+18,4.3,4,Seward Park,"47.55, -122.27",47.554268,-122.267605,"Seward Park, Hillman City",Southeast,1010.6,1.58,41505.06508,44022748.12,9050,8864,3440,2192,2.58,1866
+19,4.4,4,Mt. Baker,"47.58, -122.29",47.579836,-122.289831,"Mt. Baker, North Rainier, Atlantic",Southeast,629.9,0.98,29849.62626,27439653.43,6614,6582,2708,1493,2.43,1371
+20,5.1,5,Madrona,"47.613, -122.289",47.614095,-122.289316,"Madrona, Leschi, Harrison/Denny-Blaine",Central,827,1.29,40585.25238,36024341.27,11604,11417,4671,2877,2.44,2219
+21,5.2,5,Judkins Park,"47.591, -122.302",47.595031,-122.301369,"Judkins Park, Central Area, Little Saigon, Atlantic",Central,202.9,0.32,13582.31093,8837338.037,3675,3469,1833,661,1.89,518
+23,6.1,6,First Hill,"47.609, -122.324",47.610405,-122.324026,"First Hill, Yesler Terrace, Squire Park",East,440.9,0.69,21945.95828,19206217.02,16895,13197,8883,1851,1.49,391
+24,6.2,6,Capitol Hill,"47.62, -122.32",47.627225,-122.31401,"Capitol Hill, Pike/Pine, Broadway, First Hill",East,426.5,0.67,19343.79675,18579973.38,23837,23631,16044,2701,1.47,1006
+27,6.5,6,Madison Park,"47.64, -122.28",47.636387,-122.280678,"Madison Park, Broadmoor, Washington Park, Harrison/Denny-Blaine",East,558.6,0.87,26794.54308,24333969.5,5510,5485,2631,1426,2.08,940
+28,7.1,7,Montlake,"47.64, -122.30",47.642165,-122.303621,"Montlake, Portage Bay, Interlaken Park, Eastlake, Roanoke Park, Washington Park",Northeast,951.1,1.49,50694.32098,41429077.49,9732,9688,4635,2355,2.09,1397
+29,7.2,7,University District,"47.66, -122.30",47.664974,-122.313306,"University District, Cowen Park, Ravenna",Northeast,957,1.5,41126.82707,41688139.77,19823,12210,5677,994,2.15,639
+30,7.3,7,Ravenna,"47.68, -122.30",47.679242,-122.306317,"Ravenna, Bryant, Roosevelt, View Ridge, Hawthorne Hills, Windermere, University District",Northeast,1635.1,2.55,45748.85048,71226010.51,26484,25449,10406,5574,2.45,4892
+31,7.4,7,Wedgwood,"47.69, -122.29",47.691973,-122.291462,"Wedgwood, View Ridge, Bryant, Matthews Beach",Northeast,1502.6,2.35,41707.08581,65452932.66,16188,16086,6588,4467,2.44,3494
+32,7.5,7,Laurelhurst,"47.66, -122.28",47.660205,-122.277462,"Laurelhurst, Windermere, Sand Point, Hawthorne Hills, Magnuson Park",Northeast,1403.7,2.19,53933.14303,61143162.55,11118,10894,4272,2958,2.55,2842
+33,8.1,8,Northgate,"47.71, -122.32",47.71229,-122.325621,"Maple Leaf, Northgate, Pinehurst",North,1146.5,1.79,33701.07834,49941666.3,15615,15377,7713,3145,1.99,2361
+34,8.2,8,Olympic Hills,"47.727065, -122.303145",47.727349,-122.303088,"Lake City, Victory Heights, Olympic Hills, Pinehurst, Jackson Park",North,1393.5,2.18,39947.95715,60698770.11,15618,15501,6968,3831,2.22,2450
+35,8.3,8,Cedar Park,"47.73, -122.29",47.724007,-122.286358,"Cedar Park, Lake City, Meadowbrook, Matthews Beach",North,1210.7,1.89,47441.2501,52737272.56,14499,14335,6479,3460,2.21,2771
+36,9.1,9,Broadview,"47.72, -122.36",47.72045,-122.360894,"Broadview, Bitter Lake",Northwest,1478.5,2.31,39475.88135,64401922.36,15073,14705,7448,3340,1.97,2057
+37,9.2,9,Licton Springs,"47.70, -122.34",47.699254,-122.337736,Licton Springs,Northwest,524.6,0.82,20290.1609,22853046.74,9848,9831,4552,1976,2.16,1232
+38,9.3,9,Greenwood,"47.70, -122.35",47.695045,-122.355422,"Greenwood, Phinney Ridge, Woodland Park, Crown Hill",Northwest,1533.9,2.4,40919.76165,66816440.38,26146,25904,11837,6147,2.19,4542
+39,9.4,9,Green Lake,"47.69, -122.33",47.684927,-122.330885,"Green Lake, Meridian, Roosevelt, Woodland Park",Northwest,1330,2.08,34020.96449,57934789.28,16460,16419,7451,3166,2.2,2442
+40,9.5,9,Pinehurst,"47.72, -122.33",47.718795,-122.319677,"Haller Lake, Pinehurst",Northwest,1247.6,1.95,36999.8288,54345395.18,10883,10796,4600,2338,2.35,2135
+41,10.1,10,North Beach,"47.70, -122.38",47.700522,-122.383688,"Crown Hill, North Beach, Blue Ridge",Ballard,1284.4,2.01,39223.39137,55950011.03,12701,12626,5309,3200,2.38,2412
+42,10.2,10,Whittier Heights,"47.68, -122.37",47.68384,-122.371051,"Whittier Heights, Loyal Heights, Crown Hill",Ballard,688.7,1.08,23916.85238,29997852.14,12927,12911,5909,2888,2.18,2373
+43,10.3,10,Sunset Hill,"47.68, -122.40",47.680168,-122.398645,"Sunset Hill, Golden Gardens, Loyal Heights, Shilshole",Ballard,1035.4,1.62,36780.18244,45104080.03,14961,14942,7030,3706,2.13,2703
+44,10.4,10,Ballard,"47.68, -122.39",47.669945,-122.377546,"Ballard, West Woodland, Adams",Ballard,492.9,0.77,22105.83227,21472310.57,8649,8611,5328,1417,1.62,671
+45,11.1,11,Fremont,"47.66, -122.36",47.656844,-122.353969,"Fremont, Wallingford, Northlake",Lake Union,893.6,1.4,38111.82825,38927120.22,18248,18073,8984,3080,2.01,1758
+46,11.2,11,Wallingford,"47.66, -122.33",47.660993,-122.332929,"Wallingford, Meridian, Northlake, University District",Lake Union,810.5,1.27,30364.44026,35303307.18,18070,17978,7699,2997,2.34,2229
+47,11.3,11,Eastlake,"47.65, -122.32",47.642098,-122.326414,"South Lake Union, Eastlake, Cascade, Denny Triangle",Lake Union,727.6,1.14,36451.49273,31694570.76,19567,18976,12655,2927,1.5,940
+48,12.1,12,Magnolia,"47.64, -122.39",47.649166,-122.397916,"Magnolia, Discovery Park, Briarcliff, Lawton Park",Magnolia/Queen Anne,1968.4,3.08,49411.83828,85743405.92,13691,13684,5528,3904,2.48,3018
+49,12.2,12,Interbay,"47.64, -122.38",47.65877,-122.385714,Interbay,Magnolia/Queen Anne,1214.6,1.9,68274.91776,52907762.84,11024,10755,5616,1955,1.92,1452
+50,12.3,12,Queen Anne,"47.64, -122.37",47.638472,-122.359347,"Queen Anne, Lower Queen Anne, Uptown, Seattle Center, Westlake",Magnolia/Queen Anne,1888.4,2.95,54354.4525,82260154.4,42570,40613,21700,8423,1.87,4589
+51,13.1,13,Belltown,"47.61, -122.34",47.615331,-122.344195,"Belltown, Denny Regrade",Downtown,176.5,0.28,18767.51153,7687660.43,10282,9918,6986,1696,1.42,335
+52,13.2,13,Downtown Commercial Core,"47.61, -122.33",47.606338,-122.335065,"Downtown Commercial Core, West Edge, Central Business District, Pike Place Market, Pioneer Square",Downtown,206.5,0.32,18976.07309,8994487.325,4872,4079,2748,900,1.48,216
+53,13.3,13,International District,"47.601, -122.320",47.598827,-122.325086,"Pioneer Square, International District, Chinatown, Little Saigon, ID, Chinatown-International District",Downtown,180.6,0.28,17719.21183,7865656.146,5289,5023,3419,754,1.47,294
